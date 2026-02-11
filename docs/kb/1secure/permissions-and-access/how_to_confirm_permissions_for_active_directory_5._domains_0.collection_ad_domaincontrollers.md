@@ -12,7 +12,7 @@ title: "How to Confirm Permissions for Active Directory > 5. Domains > 0.Collect
 knowledge_article_id: kA0Qk0000001hNtKAI
 products:
   - onesecure
----
+--- 
 
 # How to Confirm Permissions for Active Directory > 5. Domains > 0.Collection > AD_DomainControllers
 
